@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0  Date: pon, 3 cze 2013, 11:39:53
+#
+$CMP MPC17/18
+D mcp17/18
+K mcp,mpc17,mcp18
+F http://www.microchip.com/wwwproducts/Devices.aspx?dDocName=en531456
+$ENDCMP
+#
+#End Doc Library

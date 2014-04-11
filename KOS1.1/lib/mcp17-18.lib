@@ -1,0 +1,23 @@
+EESchema-LIBRARY Version 2.3  Date: pon, 3 cze 2013, 11:41:26
+#encoding utf-8
+#
+# MCP17/18
+#
+DEF MCP17/18 U 0 40 Y Y 1 F N
+F0 "U" -150 -100 60 H V C CNN
+F1 "MCP17/18" 0 250 60 H V C CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+DRAW
+T 0 100 -100 60 0 0 0 Gnd  Normal 0 C C
+T 0 -150 0 60 0 0 0 Vi  Normal 0 C C
+T 0 150 0 60 0 0 0 Vo  Normal 0 C C
+S -100 100 100 -50 0 1 0 N
+X ~ 1 -200 50 100 R 50 50 1 1 I
+X ~ 2 0 -150 100 U 50 50 1 1 I
+X ~ 3 200 50 100 L 50 50 1 1 I
+X ~ 4 100 150 50 D 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library

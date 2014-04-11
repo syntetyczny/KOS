@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0  Date: 8/30/2009 6:10:37 AM
+#
+$CMP AT90USB1287-AU
+D 8 Bit AVR Microcontroller, 64kB Flash, 4096B SRAM, 2048B EEPROM
+K AVR avr ATMEL atmel MICROCONTROLLER microcontroller 8bit ATMEGA atmega ATMEGA64 atmega64
+$ENDCMP
+#
+#End Doc Library

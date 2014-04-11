@@ -1,0 +1,38 @@
+PCBNEW-LibModule-V1  pią, 28 cze 2013, 22:15:29
+# encoding utf-8
+Units mm
+$INDEX
+2PIN-5mm
+$EndINDEX
+$MODULE 2PIN-5mm
+Po 0 0 0 15 51CDEE8D 00000000 ~~
+Li 2PIN-5mm
+Cd http://www.tme.eu/pl/Document/2653ae3c3953812721c39bfb18cca9d2/dg128-5.0.pdf
+Kw 2PIN-5mm
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -6.35 1 1 0 0.15 N V 21 N "2PIN-5mm"
+T1 0 3.81 1 1 0 0.15 N V 21 N "VAL**"
+DS 0 -5.08 5.08 -5.08 0.15 21
+DS 5.08 -5.08 5.08 5.08 0.15 21
+DS 5.08 5.08 0 5.08 0.15 21
+DS 0 5.08 -5.08 5.08 0.15 21
+DS -5.08 5.08 -5.08 -5.08 0.15 21
+DS -5.08 -5.08 0 -5.08 0.15 21
+$PAD
+Sh "1" O 2 3 0 0 0
+Dr 1.4 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.5 0
+$EndPAD
+$PAD
+Sh "2" O 2 3 0 0 0
+Dr 1.4 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.5 0
+$EndPAD
+$EndMODULE 2PIN-5mm
+$EndLIBRARY

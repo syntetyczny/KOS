@@ -1,0 +1,470 @@
+PCBNEW-LibModule-V1  śro, 31 lip 2013, 18:53:27
+# encoding utf-8
+Units mm
+$INDEX
+AT90USB1287-AU
+$EndINDEX
+$MODULE AT90USB1287-AU
+Po 0 0 0 15 51F940FF 00000000 ~~
+Li AT90USB1287-AU
+Sc 0
+AR 
+Op 0 0 0
+T0 1.5 9.5 1 1 0 0.15 N V 21 N "AT90USB1287-AU"
+T1 0 0 1 1 0 0.15 N V 21 N "VAL**"
+DC -5 -5 -4.5 -4.5 0.15 21
+DS -6.5 -5.5 -6.5 6.5 0.15 21
+DS -6.5 6.5 6.5 6.5 0.15 21
+DS 6.5 6.5 6.5 -6.5 0.15 21
+DS 6.5 -6.5 -5.5 -6.5 0.15 21
+DS -5.5 -6.5 -6.5 -5.5 0.15 21
+$PAD
+Sh "64" R 0.45 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6 -7.5
+$EndPAD
+$PAD
+Sh "63" R 0.45 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.2 -7.5
+$EndPAD
+$PAD
+Sh "62" R 0.45 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.4 -7.5
+$EndPAD
+$PAD
+Sh "61" R 0.45 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.6 -7.5
+$EndPAD
+$PAD
+Sh "60" R 0.45 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.8 -7.5
+$EndPAD
+$PAD
+Sh "59" R 0.45 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2 -7.5
+$EndPAD
+$PAD
+Sh "58" R 0.45 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.2 -7.5
+$EndPAD
+$PAD
+Sh "49" R 0.45 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6 -7.5
+$EndPAD
+$PAD
+Sh "50" R 0.45 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.2 -7.5
+$EndPAD
+$PAD
+Sh "51" R 0.45 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.4 -7.5
+$EndPAD
+$PAD
+Sh "52" R 0.45 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.6 -7.5
+$EndPAD
+$PAD
+Sh "53" R 0.45 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.8 -7.5
+$EndPAD
+$PAD
+Sh "54" R 0.45 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2 -7.5
+$EndPAD
+$PAD
+Sh "55" R 0.45 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.2 -7.5
+$EndPAD
+$PAD
+Sh "56" R 0.45 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.4 -7.5
+$EndPAD
+$PAD
+Sh "57" R 0.45 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.4 -7.5
+$EndPAD
+$PAD
+Sh "48" R 1 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.5 -6
+$EndPAD
+$PAD
+Sh "47" R 1 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.5 -5.2
+$EndPAD
+$PAD
+Sh "46" R 1 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.5 -4.4
+$EndPAD
+$PAD
+Sh "45" R 1 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.5 -3.6
+$EndPAD
+$PAD
+Sh "44" R 1 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.5 -2.8
+$EndPAD
+$PAD
+Sh "43" R 1 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.5 -2
+$EndPAD
+$PAD
+Sh "42" R 1 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.5 -1.2
+$EndPAD
+$PAD
+Sh "41" R 1 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.5 -0.4
+$EndPAD
+$PAD
+Sh "33" R 1 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.5 6
+$EndPAD
+$PAD
+Sh "34" R 1 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.5 5.2
+$EndPAD
+$PAD
+Sh "35" R 1 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.5 4.4
+$EndPAD
+$PAD
+Sh "36" R 1 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.5 3.6
+$EndPAD
+$PAD
+Sh "37" R 1 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.5 2.8
+$EndPAD
+$PAD
+Sh "38" R 1 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.5 2
+$EndPAD
+$PAD
+Sh "39" R 1 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.5 1.2
+$EndPAD
+$PAD
+Sh "40" R 1 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.5 0.4
+$EndPAD
+$PAD
+Sh "9" R 1 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.5 0.4
+$EndPAD
+$PAD
+Sh "10" R 1 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.5 1.2
+$EndPAD
+$PAD
+Sh "11" R 1 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.5 2
+$EndPAD
+$PAD
+Sh "12" R 1 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.5 2.8
+$EndPAD
+$PAD
+Sh "13" R 1 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.5 3.6
+$EndPAD
+$PAD
+Sh "14" R 1 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.5 4.4
+$EndPAD
+$PAD
+Sh "15" R 1 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.5 5.2
+$EndPAD
+$PAD
+Sh "16" R 1 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.5 6
+$EndPAD
+$PAD
+Sh "8" R 1 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.5 -0.4
+$EndPAD
+$PAD
+Sh "7" R 1 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.5 -1.2
+$EndPAD
+$PAD
+Sh "6" R 1 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.5 -2
+$EndPAD
+$PAD
+Sh "5" R 1 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.5 -2.8
+$EndPAD
+$PAD
+Sh "4" R 1 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.5 -3.6
+$EndPAD
+$PAD
+Sh "3" R 1 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.5 -4.4
+$EndPAD
+$PAD
+Sh "2" R 1 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.5 -5.2
+$EndPAD
+$PAD
+Sh "1" R 1 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.5 -6
+$EndPAD
+$PAD
+Sh "24" R 0.45 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.4 7.5
+$EndPAD
+$PAD
+Sh "25" R 0.45 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.4 7.5
+$EndPAD
+$PAD
+Sh "26" R 0.45 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.2 7.5
+$EndPAD
+$PAD
+Sh "27" R 0.45 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2 7.5
+$EndPAD
+$PAD
+Sh "28" R 0.45 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.8 7.5
+$EndPAD
+$PAD
+Sh "29" R 0.45 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.6 7.5
+$EndPAD
+$PAD
+Sh "30" R 0.45 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.4 7.5
+$EndPAD
+$PAD
+Sh "31" R 0.45 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.2 7.5
+$EndPAD
+$PAD
+Sh "32" R 0.45 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6 7.5
+$EndPAD
+$PAD
+Sh "23" R 0.45 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.2 7.5
+$EndPAD
+$PAD
+Sh "22" R 0.45 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2 7.5
+$EndPAD
+$PAD
+Sh "21" R 0.45 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.8 7.5
+$EndPAD
+$PAD
+Sh "20" R 0.45 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.6 7.5
+$EndPAD
+$PAD
+Sh "19" R 0.45 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.4 7.5
+$EndPAD
+$PAD
+Sh "18" R 0.45 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.2 7.5
+$EndPAD
+$PAD
+Sh "17" R 0.45 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6 7.5
+$EndPAD
+$EndMODULE AT90USB1287-AU
+$EndLIBRARY

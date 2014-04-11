@@ -1,0 +1,42 @@
+PCBNEW-LibModule-V1  czw, 8 sie 2013, 19:29:45
+# encoding utf-8
+Units mm
+$INDEX
+PIN_ARRAY_2X1solderjumper
+$EndINDEX
+$MODULE PIN_ARRAY_2X1solderjumper
+Po 0 0 0 15 5202477C 00000000 ~~
+Li PIN_ARRAY_2X1solderjumper
+Cd Conn 2 pin - solderjumper
+Kw CONN DEV
+Sc 0
+AR /4F976C49
+Op 0 0 0
+T0 0.127 0 0.762 0.762 0 0.1524 N I 21 N "P18"
+T1 0 -1.905 0.762 0.762 0 0.1524 N I 21 N "X_MS1"
+DS -2.54 1.27 -2.54 -1.27 0.1524 21
+DS -2.54 -1.27 2.54 -1.27 0.1524 21
+DS 2.54 -1.27 2.54 1.27 0.1524 21
+DS 2.54 1.27 -2.54 1.27 0.1524 21
+$PAD
+Sh "1" O 2.1 2.1 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 2 "X-MS1"
+Po -1.27 0
+$EndPAD
+$PAD
+Sh "2" C 2.1 2.1 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 1 "Vcc"
+Po 1.27 0
+$EndPAD
+$SHAPE3D
+Na "pin_array/pins_array_2x1.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE PIN_ARRAY_2X1solderjumper
+$EndLIBRARY
