@@ -1,0 +1,51 @@
+PCBNEW-LibModule-V1  śro, 9 maj 2012, 22:45:59
+# encoding utf-8
+Units deci-mils
+$INDEX
+ticle switch
+$EndINDEX
+$MODULE ticle switch
+Po 0 0 0 15 4FAAC992 00000000 ~~
+Li ticle switch
+Cd ticle switch
+Kw ticle,switch,push
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3500 600 600 0 120 N V 21 N "ticle switch"
+T1 0 2500 600 600 0 120 N V 21 N "VAL**"
+DC 0 0 0 500 150 21
+DS -1000 -1000 -1000 1000 150 21
+DS -1000 1000 1000 1000 150 21
+DS 1000 1000 1000 -1000 150 21
+DS 1000 -1000 -1000 -1000 150 21
+$PAD
+Sh "4" O 984 590 0 0 0
+Dr 393 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1180 -885
+$EndPAD
+$PAD
+Sh "2" O 984 600 0 0 0
+Dr 393 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1180 885
+$EndPAD
+$PAD
+Sh "3" O 984 590 0 0 0
+Dr 393 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1180 -885
+$EndPAD
+$PAD
+Sh "1" O 984 590 0 0 0
+Dr 320 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1180 885
+$EndPAD
+$EndMODULE ticle switch
+$EndLIBRARY

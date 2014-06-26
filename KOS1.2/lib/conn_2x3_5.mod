@@ -1,0 +1,52 @@
+PCBNEW-LibModule-V1  pią, 7 lut 2014, 22:47:57
+# encoding utf-8
+Units mm
+$INDEX
+TB-3,5x2
+$EndINDEX
+$MODULE TB-3,5x2
+Po 0 0 0 15 52F5546E 00000000 ~~
+Li TB-3,5x2
+Cd 3,5 mm x5 pinout
+Kw CONN 3,5 3.5 TB-3,5 TB
+Sc 0
+AR /52F0BE73
+Op 0 0 0
+T0 -3 -4.9 1.016 1.016 0 0.2032 N V 21 N "P?"
+T1 3.15 4.85 1.016 1.016 0 0.2032 N I 21 N "x2"
+DS -3.5 3.6 3.5 3.6 0.15 21
+DS -3.5 -3.8 3.5 -3.8 0.15 21
+DS 3.5 0 3.5 3.6 0.15 21
+DS 3.5 -3.8 3.5 0 0.15 21
+DC -1.75 0 -0.25 0 0.15 21
+DC 1.75 0 0.25 0 0.15 21
+DS -2.75 -3 -0.75 -3 0.15 21
+DS -2.75 -3 -2.75 -3.8 0.15 21
+DS -0.75 -3 -0.75 -3.8 0.15 21
+DS 2.75 -3 2.75 -3.8 0.15 21
+DS 0.75 -3 0.75 -3.8 0.15 21
+DS 0.75 -3 2.75 -3 0.15 21
+DS -3.5 -3.8 -3.5 0 0.15 21
+DS -3.5 0 -3.5 3.6 0.15 21
+$PAD
+Sh "1" R 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 1 "GND"
+Po -1.75 0
+$EndPAD
+$PAD
+Sh "2" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 5 "N-0000068"
+Po 1.75 0
+$EndPAD
+$SHAPE3D
+Na "pin_array/pins_array_5x1.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE TB-3,5x2
+$EndLIBRARY
